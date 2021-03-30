@@ -1,0 +1,12 @@
+
+/* Class = "UINavigationItem"; title = "iTranslator"; ObjectID = "DaO-ql-z4Q"; */
+"DaO-ql-z4Q.title" = "iПереводчик";
+
+/* Class = "UINavigationItem"; title = "iTranslator"; ObjectID = "Dje-ua-X0J"; */
+"Dje-ua-X0J.title" = "iПереводчик";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YsS-mG-5jn"; */
+"YsS-mG-5jn.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Show history"; ObjectID = "x6E-Ir-dY2"; */
+"x6E-Ir-dY2.normalTitle" = "Открыть историю";
